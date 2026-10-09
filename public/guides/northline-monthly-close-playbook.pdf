@@ -1,0 +1,49 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 1329 >>
+stream
+0.043 0.122 0.227 rg 0 742 612 50 re f
+BT /F2 16 Tf 1 1 1 rg 56 760 Td (NORTHLINE ADVISORY) Tj ET
+BT /F2 24 Tf 0.043 0.122 0.227 rg 56 680 Td (The 10-Day Monthly Close Playbook) Tj ET
+BT /F1 12 Tf 0.043 0.122 0.227 rg 56 656 Td (A business-day calendar for closing the books on time.) Tj ET
+BT /F1 11 Tf 0.043 0.122 0.227 rg 56 610 Td (1.  Day 1-2: Bank, card and payment processor reconciliations.) Tj ET
+BT /F1 11 Tf 0.043 0.122 0.227 rg 56 584 Td (2.  Day 3: Accounts payable cutoff and accrued expenses.) Tj ET
+BT /F1 11 Tf 0.043 0.122 0.227 rg 56 558 Td (3.  Day 4: Revenue recognition and deferred revenue roll-forward.) Tj ET
+BT /F1 11 Tf 0.043 0.122 0.227 rg 56 532 Td (4.  Day 5: Payroll, benefits and contractor accruals.) Tj ET
+BT /F1 11 Tf 0.043 0.122 0.227 rg 56 506 Td (5.  Day 6-7: Fixed assets, prepaid expenses and amortization.) Tj ET
+BT /F1 11 Tf 0.043 0.122 0.227 rg 56 480 Td (6.  Day 8: Flux analysis against budget and prior month.) Tj ET
+BT /F1 11 Tf 0.043 0.122 0.227 rg 56 454 Td (7.  Day 9: Management review and adjustments.) Tj ET
+BT /F1 11 Tf 0.043 0.122 0.227 rg 56 428 Td (8.  Day 10: Financial statements and KPI pack delivered.) Tj ET
+0.72 0.584 0.353 RG 1 w 56 80 m 556 80 l S
+BT /F1 9 Tf 0.29 0.35 0.45 rg 56 64 Td (Demo document. Northline Advisory is a fictional firm. Not tax advice.) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1777
+%%EOF
